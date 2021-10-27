@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Kate",
+        "Role": "Head Nurse"
+    },
+    {
+        "id": 2,
+        "name": "Jane",
+        "Role": "Nurse",
+        "parent": 1
+    },
+    {
+        "id": 3,
+        "name": "John",
+        "Role": "Patient",
+        "parent": 2
+    },
+    {
+        "id": 4,
+        "name": "Joe",
+        "Role": "Patient",
+        "parent": 2
+    },
+    {
+        "id": 5,
+        "name": "Merry",
+        "Role": "Doughter",
+        "parent": 3
+    },
+    {
+        "id": 6,
+        "name": "Ralph",
+        "Role": "Son",
+        "parent": 3
+    },
+    {
+        "id": 7,
+        "name": "Fred",
+        "Role": "Son",
+        "parent": 3
+    }
+]
